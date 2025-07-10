@@ -14,3 +14,5 @@ TF_VAR_secret1_name=Example2Username TF_VAR_secret1_password=Example2Pass TF_VAR
 
 e.g.
 ./GetSecrets.sh 2
+
+## comment
